@@ -1,2 +1,2 @@
-# 4-week-muscle-building-workout-plan
+# 4-WEEK MUSCLE BUILDING WORKOUT PLAN
 # Using HTML5, CSS, Bootstrap5
